@@ -22,10 +22,10 @@ const interval = setInterval(() => {
 // ------------------------------------------
 
 // 支付宝用户ID
-var alipayUserId = '2088922557117308';
+var alipayUserId = '2088352554305325';
 
 // 赏金二维码解码后的token
-var qrToken = 'AhGZ19610515y4vfkzko7jotd85w2O';
+var qrToken = 'gLK196191833npc5pvinply776EzO';
 
 // ------------------------------------------
 
